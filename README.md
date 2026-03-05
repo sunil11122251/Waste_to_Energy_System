@@ -56,6 +56,8 @@ The system is developed using the following technologies:
 The project is organized in a modular structure to maintain readability and scalability.
 
 ### Folder Structure
+
+```
 Waste_to_Energy_System
 │
 ├── app.py
@@ -68,16 +70,16 @@ Waste_to_Energy_System
 ├── MIT LICENSE
 │
 └── pages
-  ├── 1_Waste_Treatment_Analysis.py
-  ├── 2_Environmental_Impact.py
-  ├── 3_Economic_Analysis.py
-  ├── 4_Heat_Recovery.py
-  ├── 5_Energy_Ranking.py
-  ├── 6_Energy_Demand.py
-  ├── 7_Treatment_Comparison.py
-  ├── 8_Waste_Growth.py
-  └── 9_Dashboard.py
----
+    ├── 1_Waste_Treatment_Analysis.py
+    ├── 2_Environmental_Impact.py
+    ├── 3_Economic_Analysis.py
+    ├── 4_Heat_Recovery.py
+    ├── 5_Energy_Ranking.py
+    ├── 6_Energy_Demand.py
+    ├── 7_Treatment_Comparison.py
+    ├── 8_Waste_Growth.py
+    └── 9_Dashboard.py
+```
 
 ### Description of Main Files
 
