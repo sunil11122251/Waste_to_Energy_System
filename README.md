@@ -65,7 +65,7 @@ Waste_to_Energy_System
 ├── visualizations.py
 ├── requirements.txt
 ├── README.md
-├──
+├── MIT LICENSE
 │
 └── pages
   ├── 1_Waste_Treatment_Analysis.py
