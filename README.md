@@ -77,7 +77,7 @@ Waste_to_Energy_System
   ├── 7_Treatment_Comparison.py
   ├── 8_Waste_Growth.py
   └── 9_Dashboard.py
-
+---
 
 ### Description of Main Files
 
